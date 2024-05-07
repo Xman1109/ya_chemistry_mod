@@ -1,0 +1,10 @@
+{
+  "name": "ya_chemical_mod",
+  "version": "0.0.1",
+  "title": "Yet Another Chemical Mod",
+  "description": "WIP",
+  "author": "X_Man1109",
+  "contact": "X_Man1109#6160",
+  "factorio_version": "1.1",
+  "dependencies": ["base"]
+}
